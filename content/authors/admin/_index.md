@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Vivek Singh Baghel
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vivek Singh
+last_name: Baghel
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: NTUT (Taipei Tech), Taipei, Taiwan
+    url: https://www.ntut.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Biometrics
+  - Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Engineering
+      institution: Indian Institute of Technology Indore, India
+      year: 2023
+    - course: M.Tech. in Information Technology
+      institution: University of Hyderabad, Hyderabad
+      year: 2018
+    - course: B.E. in Computer Science and Engineering
+      institution: UIT-RGPV, Bhopal, India
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +122,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am working as a postdoc in the Intelligent Control lab under the supervision of Prof. Leehter Yao at Taipei Tech, Taiwan. My research interest broadly includes Computer Vision, Biometrics, Machine Learning, and Deep Learning.
+
+I received my Ph.D. in computer science & engineering from the Indian Institute of Technology Indore, India in March 2023. During my PhD, I worked in the Pattern Analysis & Machine Intelligence lab under the supervision of Dr. Surya Prakash. In my PhD thesis work, I worked in the area of biometric template protection that includes the development of secure and efficient techniques to protect the fingerprint user template stored in the database as the databases are vulnerable to attack which can cause an identity theft of a user.
 {style="text-align: justify;"}
