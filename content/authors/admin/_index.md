@@ -1,9 +1,9 @@
 ---
 # Display name
-# title: D
+title: Dr. Vivek Singh Baghel
 
 # Name pronunciation (optional)
-name_pronunciation: Dr. Vivek Singh Baghel
+# name_pronunciation: Dr. Vivek Singh Baghel
 
 # Full name (for SEO)
 first_name: Vivek Singh
