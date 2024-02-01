@@ -50,8 +50,8 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-{% comment %}
-skills:
+
+<!--skills:
   - name: Technical
     items:
       - name: Python
@@ -87,8 +87,7 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
-        icon_pack: fas 
-{% endcomment %}
+        icon_pack: fas-->
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
